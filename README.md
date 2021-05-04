@@ -6,3 +6,7 @@ This repository includes various C/C++ project
    Input array -> 2 1 3 5 4,
    After swapping -> 5 4 3 2 1, 
    After sorting -> 4 5 3 1 2 
+3. Calculate the n-moving average of a given array.
+   For example -> to calculate 5 - moving average ->
+   Intial array 1 2 3 4 5 -> avg = 3
+   Add new number 6 to the end of an array as 1 2 3 4 5 6 but for 5-moving avg calculation, only 2 3 4 5 6 will be consider and avg = 4
