@@ -10,3 +10,4 @@ This repository includes various C/C++ project
    For example -> to calculate 5 - moving average ->
    Intial array 1 2 3 4 5 -> avg = 3
    Add new number 6 to the end of an array as 1 2 3 4 5 6 but for 5-moving avg calculation, only 2 3 4 5 6 will be consider and avg = 4
+4. Arrays of structure -> It shows the basic example on how to use array of structure in C
